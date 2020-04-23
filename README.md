@@ -16,7 +16,7 @@ Self-explanatory title
 Note: to get the weights contact me!
 
 ### Results
-![image1](/miki998/FastGradSignedM_Attack/readme_images/img1.png)
+![image1](https://github.com/miki998/FastGradSignedM_Attack/tree/master/readme_images/img1.png)
 ![image2](/miki998/FastGradSignedM_Attack/readme_images/img2.png)
 ![image3](/miki998/FastGradSignedM_Attack/readme_images/img3.png)
 ![image4](/miki998/FastGradSignedM_Attack/readme_images/img4.png)
